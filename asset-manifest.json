@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zoom-backgrounds/static/css/main.d1b05096.chunk.css",
+    "main.js": "/zoom-backgrounds/static/js/main.c05a14dd.chunk.js",
+    "main.js.map": "/zoom-backgrounds/static/js/main.c05a14dd.chunk.js.map",
+    "runtime-main.js": "/zoom-backgrounds/static/js/runtime-main.e933dbf2.js",
+    "runtime-main.js.map": "/zoom-backgrounds/static/js/runtime-main.e933dbf2.js.map",
+    "static/js/2.f26c5ce4.chunk.js": "/zoom-backgrounds/static/js/2.f26c5ce4.chunk.js",
+    "static/js/2.f26c5ce4.chunk.js.map": "/zoom-backgrounds/static/js/2.f26c5ce4.chunk.js.map",
+    "index.html": "/zoom-backgrounds/index.html",
+    "precache-manifest.300a002d6d02cbc513c2dd7aa1df43c3.js": "/zoom-backgrounds/precache-manifest.300a002d6d02cbc513c2dd7aa1df43c3.js",
+    "service-worker.js": "/zoom-backgrounds/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/zoom-backgrounds/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f26c5ce4.chunk.js.LICENSE.txt": "/zoom-backgrounds/static/js/2.f26c5ce4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zoom-backgrounds/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e933dbf2.js",
+    "static/js/2.f26c5ce4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c05a14dd.chunk.js"
+  ]
+}
